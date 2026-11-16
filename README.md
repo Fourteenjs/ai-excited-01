@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/Fourteenjs/ai-excited-01/rank.svg)](https://make.fun/c/ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/Fourteenjs/ai-excited-01/reward.svg)](https://make.fun/c/ai-excited-01)
 
-Entry for [make.fun's ai-excited-01](https://make.fun/c/ai-excited-01): one image
+Entry for [make.fun's ai-excited-01](https://make.fun/c/ai-excited-01) — see the [bounty page](https://make.fun/bounty/ai-excited-01): one image
 made to get the AI judge excited.
 
 ![The Teacup Koi](entry.png)

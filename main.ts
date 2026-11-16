@@ -1,3 +1,4 @@
+// Round 2: entry.png regenerated in a recorded session (same koi image, JPEG q93).
 // ai-excited-01 — "The Teacup Koi".
 //
 // The entry is a single image: a colossal golden koi bursting out of a tiny
